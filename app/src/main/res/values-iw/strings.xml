@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meni_Baninkotlin</string>
+    <string name="moviename">בובספוג מכנסמרובע</string>
+    <string name="movie_words">ההרפתקאות של דמות העיקרית וחבריו בים בעיר התת-ימית הבדיונית ביקיני בוטום</string>
+    <string name="Order">הזמן בבקשה</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="orderButton">הזמן עכשיו</string>
+    <string name="ResOP">אופציות הזמנה</string>
+    <string name="AC">בחר מבוגר או ילד</string>
+    <string name="Adult">מבוגר</string>
+    <string name="Child">ילד</string>
+    <string name="mot">בבקשה בחר סרט או תיאטרון</string>
+    <string name="Movie">סרט</string>
+    <string name="Tea">תיאטרון</string>
+    <string name="Date">בחר תאריך</string>
+    <string name="Get_tickets">קבל כרטיסים</string>
+    <string name="confirmperchase">אשר הזמנה</string>
+    <string name="ticket">האם אתה בטוח שאתה רוצה להזמין?</string>
+    <string name="date">בבקשה בחר תאריך</string>
+    <string name="GlobosMovies">סרטי גלובוס</string>
+</resources>

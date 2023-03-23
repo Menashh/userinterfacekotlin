@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Meni_Baninkotlin</string>
+    <string name="moviename">Spongbob Squarepants</string>
+    <string name="movie_words">The adventures of the title character and his aquatic friends in the fictional underwater city of Bikini Bottom</string>
+    <string name="Order">Order please</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="orderButton">Order Now</string>
+    <string name="ResOP">Reservation options</string>
+    <string name="AC">Please choose adult or child:</string>
+    <string name="Adult">Adult</string>
+    <string name="Child">Child</string>
+    <string name="mot">Please choose movie or teatre:</string>
+    <string name="Movie">Movie</string>
+    <string name="Tea">Teatre</string>
+    <string name="Date">Pick a date</string>
+    <string name="Get_tickets">Get tickets</string>
+    <string name="confirmperchase">Confirm Perchase</string>
+    <string name="ticket">Are you sure you want to order a ticket?</string>
+    <string name="date">Please choose date</string>
+    <string name="GlobosMovies">Globos Movies</string>
+</resources>
