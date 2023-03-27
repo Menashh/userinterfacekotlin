@@ -10,7 +10,7 @@
     <string name="AC">Please choose adult or child:</string>
     <string name="Adult">Adult</string>
     <string name="Child">Child</string>
-    <string name="mot">Please choose movie or teatre:</string>
+    <string name="choose_kind">Please choose kind:</string>
     <string name="Rav_Hen">Rav Hen</string>
     <string name="Yes_Planet"> yes planet</string>
     <string name="Cinema_City">Cinema city</string>

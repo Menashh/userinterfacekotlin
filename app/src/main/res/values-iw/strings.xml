@@ -11,7 +11,7 @@
     <string name="AC">בחר מבוגר או ילד</string>
     <string name="Adult">מבוגר</string>
     <string name="Child">ילד</string>
-    <string name="mot">בבקשה בחר סרט או תיאטרון</string>
+    <string name="choose_kind">בבקשה בחר סוג </string>
     <string name="Rav_Hen">רב חן</string>
     <string name="Yes_Planet">יאס פלנט </string>
     <string name="Cinema_City"> סינימה סיטי</string>

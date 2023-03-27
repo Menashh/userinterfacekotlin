@@ -56,7 +56,7 @@
         android:layout_width="match_parent"
         android:layout_height="46dp"
         android:gravity="left"
-        android:text="@string/mot"
+        android:text="@string/choose_kind"
         android:textAppearance="?android:textAppearanceMedium"
         android:textSize="20sp" />
 
