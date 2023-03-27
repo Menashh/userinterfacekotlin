@@ -61,25 +61,32 @@
         android:textSize="20sp" />
 
     <RadioGroup
-        android:id="@+id/movieorteatre"
+        android:id="@+id/Part"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
         <com.google.android.material.radiobutton.MaterialRadioButton
-            android:id="@+id/movie"
+            android:id="@+id/Rav_Hen"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/Movie"
+            android:text="@string/Rav_Hen"
             android:textStyle="bold"/>
 
         <com.google.android.material.radiobutton.MaterialRadioButton
-            android:id="@+id/Teatre"
+            android:id="@+id/Yes_Planet"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/Tea"
+            android:text="@string/Yes_Planet"
+            android:textStyle="bold"/>
+        <com.google.android.material.radiobutton.MaterialRadioButton
+            android:id="@+id/Cinema_City"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Cinema_City"
             android:textStyle="bold"/>
     </RadioGroup>
     <LinearLayout

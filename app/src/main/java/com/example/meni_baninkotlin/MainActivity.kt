@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
             builder.show()
 
             val adultChild = dialogView.findViewById<RadioGroup>(R.id.AdultorChild)
-            val movieTeatre = dialogView.findViewById<RadioGroup>(R.id.movieorteatre)
+            val Part = dialogView.findViewById<RadioGroup>(R.id.Part)
             val datePicker = dialogView.findViewById<Button>(R.id.dateButton)
             val getTicktes = dialogView.findViewById<Button>(R.id.GetTickets)
             val confirmPerchase = dialogView.findViewById<Button>(R.id.areyousure)
@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
                     age = radioButton.text.toString()
                 }
             }
-            movieTeatre.setOnCheckedChangeListener { group, checkId ->
+            Part.setOnCheckedChangeListener { group, checkId ->
                 if (checkId == -1) {
                     kind = null
                 } else {

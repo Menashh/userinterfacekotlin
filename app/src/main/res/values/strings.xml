@@ -11,8 +11,9 @@
     <string name="Adult">Adult</string>
     <string name="Child">Child</string>
     <string name="mot">Please choose movie or teatre:</string>
-    <string name="Movie">Movie</string>
-    <string name="Tea">Teatre</string>
+    <string name="Rav_Hen">Rav Hen</string>
+    <string name="Yes_Planet"> yes planet</string>
+    <string name="Cinema_City">Cinema city</string>
     <string name="Date">Pick a date</string>
     <string name="Get_tickets">Get tickets</string>
     <string name="confirmperchase">Confirm Perchase</string>
